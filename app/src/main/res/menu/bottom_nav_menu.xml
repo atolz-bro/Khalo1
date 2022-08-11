@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/outline_home_24"
+        android:title="@string/home"
+        />
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/outline_search_24"
+        android:title="@string/explore"
+        android:enabled="true"
+        />
+    <item
+        android:id="@+id/ticket"
+        android:icon="@drawable/outline_local_activity_24"
+        android:title="@string/ticket"
+        android:enabled="true"
+        />
+</menu>
